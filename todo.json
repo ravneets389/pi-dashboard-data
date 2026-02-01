@@ -1,0 +1,8 @@
+{
+	"title":"raspberry-todo",
+	"last_updated": "2026-01-30",
+	"items" : [
+		{"desc":"update the dashboard", "done": false},
+		{"desc":"setup the display on pi", "done": false},
+	]
+}
